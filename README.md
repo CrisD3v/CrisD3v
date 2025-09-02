@@ -23,11 +23,11 @@ I enjoy solving problems, optimizing processes, and writing clean code that last
 ---
 
 ## 📊 GitHub Stats
-![Cris's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)  
+![Cris's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrisD3v&show_icons=true&theme=tokyonight)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrisD3v&layout=compact&theme=tokyonight)  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&date_format=j%20M%5B%20Y%5D)  
+![GitHub Streak](https://streak-stats.demolab.com?user=CrisD3v&theme=tokyonight&date_format=j%20M%5B%20Y%5D)  
 
 ---
 
